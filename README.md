@@ -5,7 +5,7 @@ Dans cette section, nous présentons les étapes de mise en œuvre du modèle Sc
 
 ## 1. Préparation des données
 ### Flux de données
-![Récupération des ids](/images/20.png)
+![Récupération des ids](/images/23.png)
 - Identification des articles sources et cibles via `source_id` et `target_id`.
 
 ### Téléchargement des Fichiers PDF
