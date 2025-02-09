@@ -1,4 +1,4 @@
-# Résumé : Application et Résultats
+# PFA : corrélation entre les citations et les références des articles scientifiques
 
 ## Introduction
 Dans cette section, nous présentons les étapes de mise en œuvre du modèle SciBERT pour analyser la corrélation entre les citations et les références des articles scientifiques. L'extraction des textes de référence est réalisée à l'aide de Grobid, puis ces textes sont traités afin de calculer des scores de similarité. Ce travail a été réalisé en utilisant le dataset **FullTextPeerRead**, qui contient des articles scientifiques pour analyser la corrélation entre les citations et les références.
