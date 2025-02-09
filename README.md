@@ -5,7 +5,7 @@ Dans cette section, nous présentons les étapes de mise en œuvre du modèle Sc
 
 ## 1. Préparation des données
 ### Flux de données
-![Récupération des ids](/images/.png)
+![Récupération des ids](/images/20.png)
 - Identification des articles sources et cibles via `source_id` et `target_id`.
 
 ### Téléchargement des Fichiers PDF
@@ -46,11 +46,11 @@ Dans cette section, nous présentons les étapes de mise en œuvre du modèle Sc
 - Analyse des distributions des scores de similarité.
 
 ### Graphique de similarité
-![Graph de similarité](figure_33.png)
+![Graph de similarité](/images/21.png)
 - Répartition des valeurs de similarité entre les citations et les références.
 
 ### Graphique de régression
-![Graph de régression](figure_34.png)
+![Graph de régression](/images/22.png)
 - Mise en évidence d'une tendance positive entre les citations et les références.
 
 ## Conclusion
